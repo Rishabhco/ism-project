@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "ismproj",
+            "database": "${workspaceFolder:Honeypot-Implementation-master}/data.db"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
